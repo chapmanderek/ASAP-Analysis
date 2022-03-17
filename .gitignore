@@ -1,4 +1,5 @@
 data/*
+dataframes/*
 .DS_Store
 *.gsheet
 items.csv
